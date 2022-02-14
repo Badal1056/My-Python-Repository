@@ -18,5 +18,7 @@ git add -a
 file is added in the space and ready to commit
 m : Modification
 
-git commit -m 
+#first commit
+git commit -m"first commit"
+
 
