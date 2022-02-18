@@ -1,4 +1,5 @@
 #what is Git?
+'''
 1. open source platform
 2. creating history of our project
 
@@ -9,6 +10,7 @@
 7. push
 8. merging
 9. pull
+'''
  #initialize git in project
  git init
  U: untracked file
